@@ -1,6 +1,6 @@
 # Sea of Cortez (2025): Data Dictionary
 
-**File Name:** `data_dictionary.md`  
+**File Name:** `DATA_DICTIONARY.md`  
 **Version:** 1.0.0  
 **Project:** Western Flyer - Sea of Cortez (Baja 2025)  
 **Database Table:** `wf_ctd_binned`
